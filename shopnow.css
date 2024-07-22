@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logosize {
+    height: 50px;
+}
+
+.view-all {
+    background-color: #f4cdf7;
+}
+
+#home {
+    color: black;
+}
+
+#services {
+    color: black;
+}
+
+#ourproducts {
+    color: black;
+}
+
+#contactus {
+    color: black;
+}
+
+.bannersection {
+    background-image: url('https://st4.depositphotos.com/12985790/25316/i/450/depositphotos_253164172-stock-photo-cropped-view-young-woman-holding.jpg');
+    background-size: 100% 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.main-heading {
+    font-size: 40px;
+    font-style: italic;
+    font-family: "caveat";
+    font-weight: bold;
+}
+
+.headingdiv {
+    height: 100vh;
+}
+
+.banner-button {
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    border-width: 2px;
+    background-color: transparent;
+    color: black;
+}
+
+.appliancessize {
+    height: 120px;
+}
+
+.servicepara {
+    color: #5a7184;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.fast-delivery {
+    border-radius: 30px;
+
+}
+
+.serviceslogo {
+    height: 130px;
+}
+
+.ourproductslogo {
+    height: 130px;
+}
+
+.productsdiv {
+    border-radius: 30px;
+}
+
+.sareelogo {
+    height: 100px;
+}
+
+.sectionheadings {
+    font-family: "caveat";
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.aboutussection {
+    background-color: #0d2436;
+}
+
+.instagram {
+    color: #fc26d2;
+
+}
+
+.facebook {
+    color: blue;
+}
+
+.twitter {
+    color: #5182f5;
+}
+
+.linkedln {
+    color: lightblue;
+}
+
+.followus {
+    background-color: white;
+}
+
+.footeranchorlinks {
+    color: white;
+}
+
+.footersection {
+    background-color: grey;
+}
+
+.footerimagesize {
+    height: 200px;
+}
